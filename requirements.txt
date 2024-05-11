@@ -2,4 +2,5 @@ opencv-python-headless
 numpy
 streamlit
 joblib
-tensorflow
+tensorflow>=2.6.0
+
